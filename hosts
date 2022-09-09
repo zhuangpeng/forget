@@ -1,0 +1,37 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+# Added by Docker Desktop
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal
+# End of section
+
+## pycharm ###
+0.0.0.0 account.jetbrains.com
+
+## cloudflare
+#198.41.212.245 51tgx.com
+#198.41.203.30 51tgx.com
+#104.19.172.178 51tgx.com
+#104.16.69.208 51tgx.com
+#104.16.21.47 51tgx.com
+#104.24.95.99  51tgx.com
+#141.101.114.90 51tgx.com
+#198.41.199.17 51tgx.com
+#190.93.245.17 51tgx.com
+#104.16.57.166 51tgx.com
+#104.19.142.120 51tgx.com
+#172.64.154.162 51tgx.com
+#198.41.193.181 51tgx.com
+#188.114.96.32 51tgx.com
+#198.41.222.30 51tgx.com
+#188.114.96.30 51tgx.com
+#198.41.204.222 51tgx.com
+#198.41.212.187 51tgx.com
+198.41.202.179 51tgx.com
